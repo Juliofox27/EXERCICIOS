@@ -1,0 +1,78 @@
+
+.div_estilizada{
+    border-top:solid red 5px;
+    border-bottom:solid red 5px;
+    width: 900px;
+    height: 470px;
+    line-height: 100px;
+    background-color: white;
+    padding-top: 50px;   
+    
+
+}
+        /*titulo*/ 
+
+    th{
+    color:orange;
+    border: solid blue 8px;
+    width: 300px;
+    height:100px;  
+    background-color: white;
+    border-top: none;
+    border-bottom: none;
+    margin: auto;
+    }
+
+    /*conteudo*/
+
+    td{
+        margin-top: 20px;
+        color: red;
+        border: solid green 8px;
+        border-left: none;
+        border-right: none;
+        width: 330px;
+        height: 150px;
+        text-align: center;
+        background-color: white;
+    }
+
+    /*figuras*/
+
+    #circulo{
+        width: 80;
+        height: 80;
+        border-radius: 50%;
+        background-color: pink;
+        margin-left: 100px;
+    }
+
+    #retangulo{
+        width: 150px;
+        height: 90px;
+        background-color: blue;
+        margin: auto;
+        
+        
+
+    }
+
+    #quadrado{
+        width: 90px;
+        height: 90px;
+        background-color: orange ;
+        margin:auto;
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
